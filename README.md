@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Marcela! 💖</h1>
+<h1 align="center">Oi, eu sou a Marcela! 🧩</h1>
 <p align="center">
   Cientista de Dados • Desenvolvedora • Autista • Criadora do Flowtea App 🎧
 </p>
