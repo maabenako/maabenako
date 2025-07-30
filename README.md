@@ -16,9 +16,9 @@
 ---
 
 ### 📈 Minhas estatísticas:
-![Marcela's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcela-alvim&show_icons=true&theme=radical)
+![Marcela's GitHub stats](https://github-readme-stats.vercel.app/api?username=maabenako&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcela-alvim&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maabenako&layout=compact&theme=radical)
 
 ---
 
