@@ -34,5 +34,6 @@ Atualmente estou desenvolvendo o **Flowtea**, um app que une tecnologia e emoç�
 <p align="center">
   <a href="https://www.linkedin.com/in/marcelaabe-alvim/">💼 LinkedIn</a> • 
   <a href="https://tiktok.com/@n4kinha">🎵 TikTok</a> • 
-  <a href="https://github.com/maabenako">🐱 GitHub</a>
+  <a href="https://github.com/maabenako">🐱 GitHub</a> • 
+  <a href="https://maabenako.github.io/flowtea-site/">📱 Flowtea</a> 
 </p>
